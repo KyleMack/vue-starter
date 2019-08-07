@@ -1,0 +1,36 @@
+* {
+    font-family: "Old School Adventures" !important;
+
+    font-size: 1.05em;
+}
+
+.brand-main{        background-color: #48A648;}
+.brand-light{       background-color: rgb(87, 221, 87);}
+.brand-dark{        background-color: #11A611;}
+
+.brand-off{         background-color: #00A5FF;}
+.brand-off-light{   background-color: #9999FF;}
+.brand-off-dark{    background-color: #0000FF;}
+
+/* Give each page a header*/
+header{
+    height: 15%;
+
+    text-align: center;
+    font-size: 3em;
+}
+
+/* Remove the underline from link */
+a{
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+}
+
+/* Format spacing in the column*/
+.w3-col{
+    padding: 5px;
+}
+.w3-row .w3-col{
+    margin: 6px;
+}

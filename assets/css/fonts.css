@@ -1,0 +1,58 @@
+@font-face{
+    font-family: "Chixa";
+    src: 
+        url("../font/ChixaDemiBold.ttf");
+}
+@font-face{
+    font-family: "Dominik";
+    src: 
+        url("../font/Dominik.ttf"),
+        url("../font/Dominik_Italic.ttf"),
+        url("../font/Dominik_Thin.ttf"),
+        url("../font/Dominik_Thin_Italic.ttf");
+}
+@font-face{
+    font-family: "Give Your Heart";
+    src: 
+        url("../font/Give_It_Your_Heart.ttf");
+}
+@font-face{
+    font-family: "Mused";
+    src: 
+        url("../font/Mused.otf");
+}
+@font-face{
+    font-family: "Old School Adventures";
+    src: 
+        url("../font/Old_School_Adventures.ttf"),
+        url("../font/Old_School_Adventures.woff");
+}
+@font-face{
+    font-family: "Overpass";
+    src: 
+        url("../font/Overpass_Regular.ttf"),
+        url("../font/Overpass_Bold.ttf");
+}
+@font-face{
+    font-family: "Texgy";
+    src: 
+        url("../font/texgyrecursor-regular.otf"),
+        url("../font/texgyrecursor-italic.otf"),
+        url("../font/texgyrecursor-bold.otf"),
+        url("../font/texgyrecursor-bolditalic.otf");
+}
+@font-face{
+    font-family: "Reflecques";
+    src: 
+        url("../font/Reflecques.otf");
+}
+@font-face{
+    font-family: "Persans";
+    src: 
+        url("../font/persans.ttf"),
+        url("../font/persansb.ttf"),
+        url("../font/persansi.ttf"),
+        url("../font/persanbk.ttf"),
+        url("../font/persanbi.ttf"),
+        url("../font/persabki.ttf");
+}
