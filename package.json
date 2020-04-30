@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment-timezone": "^0.5.25",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6"
